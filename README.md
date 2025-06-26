@@ -16,7 +16,7 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧠 Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Code-C++-blue?style=flat&logo=c%2B%2B" />
@@ -42,11 +42,11 @@
 
 ### 🧠 Featured Projects
 
-- 🔗 [Matrimonial Bio Generator](https://github.com/tofa19/matrimonial-biodata)
-- 🧮 [Smart Calculator](https://github.com/tofa19/calculator)
-- 🌐 [Harvard Style Webpage](https://github.com/tofa19/harvard-homepage-clone)
+- 🔗 <a href="https://github.com/tofa19/matrimonial-biodata">Matrimonial Bio Generator</a>
+- 🤮 <a href="https://github.com/tofa19/calculator">Smart Calculator</a>
+- 🌐 <a href="https://github.com/tofa19/harvard-homepage-clone">Harvard Style Webpage</a>
 
-> *Check out more on my [GitHub Repositories »](https://github.com/tofa19?tab=repositories)*
+> *Check out more on my <a href="https://github.com/tofa19?tab=repositories">GitHub Repositories »</a>*
 
 ---
 
@@ -66,8 +66,16 @@
 
 ---
 
-### ⚡ Fun Animation (Optional)
+### ⚡ Fun Animation
 
-```html
-<!-- You can use this in a markdown widget or on your personal website -->
-<img src="https://github.com/tofa19/tofa19/raw/main/assets/dev-animation.gif" alt="Coding animation" width="400" />
+<p align="center">
+  <img src="https://github.com/tofa19/tofa19/raw/main/assets/dev-animation.gif" alt="Coding animation" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
