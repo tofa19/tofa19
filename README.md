@@ -1,40 +1,100 @@
-# 🚀 Welcome to My Projects Portfolio
 
-Hi there! I'm **Toufique Ahamed**, and this is a showcase of my public GitHub projects. I work across multiple languages and technologies including Python, C, HTML/CSS, JavaScript, and Machine Learning.
+# 🌐 Toufique Ahamed - Interactive Portfolio
 
----
+Welcome to my personal interactive portfolio! 🚀 This landing page showcases my skills, personal projects, and development journey across web, software, and AI domains.
 
-## 🧰 Featured Projects
-
-| 🚩 Project Name | 🔧 Tech Used | 📦 Description |
-|----------------|-------------|----------------|
-| [tofa19](https://github.com/Toufique-Ahamed/tofa19) | – | My GitHub profile repository |
-| [personal-portfolio](https://github.com/Toufique-Ahamed/personal-portfolio) | `CSS` | A stylish personal portfolio site |
-| [Calculator](https://github.com/Toufique-Ahamed/Calculator) | `JavaScript` | A web-based calculator with modern UI |
-| [Biodata-form](https://github.com/Toufique-Ahamed/Biodata-form) | `HTML` | Simple biodata form layout |
-| [HTML-CSS](https://github.com/Toufique-Ahamed/HTML-CSS) | `HTML` | Practice of HTML & CSS fundamentals |
-| [Python_game](https://github.com/Toufique-Ahamed/Python_game) | `Python` | Mini Python-based terminal game |
-| [miniCompiler](https://github.com/Toufique-Ahamed/miniCompiler) | `C` | A basic compiler project |
-| [DMML-Project](https://github.com/Toufique-Ahamed/DMML-Project) | `Jupyter Notebook` | Data Mining & Machine Learning project |
-| [filesystem_manager](https://github.com/Toufique-Ahamed/filesystem_manager) | `C` | Simple command-line file system |
-| [NLP-](https://github.com/Toufique-Ahamed/NLP-) | – | Projects related to NLP |
-| [FitFusion-Gym](https://github.com/Toufique-Ahamed/FitFusion-Gym) | `JavaScript` | Gym website with workout tracker |
-| [Hospital-Management-System](https://github.com/Toufique-Ahamed/Hospital-Management-System) | `HTML` | Simple hospital management site layout |
-| [Java_Codes](https://github.com/Toufique-Ahamed/Java_Codes) | `Java` | Collection of basic Java programs |
-| [Courier-Service](https://github.com/Toufique-Ahamed/Courier-Service) | – | Courier service management system |
+🔗 **Live Site:** [toufique-ahamed.github.io/personal-portfolio](https://toufique-ahamed.github.io/personal-portfolio)
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Features
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toufique-Ahamed&show_icons=true&theme=tokyonight" alt="Toufique's GitHub stats" width="500"/>
-</p>
+✨ Fully responsive, animated landing page  
+🎨 Modern gradient UI with smooth transitions and hover effects  
+📁 Project cards with dynamic layouts  
+🧠 Visualized skill set badges  
+🧑‍💻 Personal branding and contact section  
 
 ---
 
-## 🧠 Tech Stack
+## 🔧 Built With
+
+- `HTML5`, `CSS3`
+- `Responsive Grid & Flexbox`
+- `Pure CSS animations`
+- `Google Fonts (Poppins)`
+- No frameworks or libraries required — fully lightweight and browser-friendly.
+
+---
+
+## 📂 Project Sections
+
+- **Header:** Name, role, and tagline
+- **Projects:** Cards showing project name, short description, and stack
+- **Skills:** Animated badges for key languages and tools
+- **Footer:** Contact and inspirational quote
+
+---
+
+## 📸 Preview
+
+![Portfolio Screenshot](https://github.com/Toufique-Ahamed/personal-portfolio/raw/main/preview.png)
+
+> *(You can add a `preview.png` screenshot to your repo to show here)*
+
+---
+
+## 🧠 Skills Displayed
 
 ```txt
 Languages:  Python, C, JavaScript, HTML, CSS, Java  
-Tools:      Git, GitHub, VS Code, Jupyter Notebook, Arduino  
+Tools:      Git, GitHub, VS Code, Jupyter Notebook, Arduino
+````
+
+---
+
+## 🔗 Important Links
+
+* 🔗 GitHub Profile: [Toufique-Ahamed](https://github.com/Toufique-Ahamed)
+* 📨 Email: [toufique@example.com](mailto:toufique@example.com) *(Update this with your actual email)*
+* 🛠️ GitHub Pages: [Enable Pages from /settings](https://docs.github.com/en/pages)
+
+---
+
+## 🚀 How to Use
+
+1. Clone this repo:
+
+   ```bash
+   git clone https://github.com/Toufique-Ahamed/personal-portfolio.git
+   cd personal-portfolio
+   ```
+
+2. Open `index.html` in your browser, or deploy via GitHub Pages:
+
+   * Go to `Settings` → `Pages`
+   * Source: `main` branch, `/ (root)`
+   * Save & view live
+
+---
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+> “Code today, lead tomorrow.” – Toufique
+
+```
+
+---
+
+Let me know if you'd like me to:
+
+- Automatically generate and upload a `preview.png` screenshot  
+- Add project badges or deployment status  
+- Convert this to a one-click Vercel or Netlify deployment
+
+Would you like a custom favicon, loading animation, or typing effect on your intro as well?
+```
