@@ -45,6 +45,10 @@
 - 🔗 <a href="https://github.com/tofa19/matrimonial-biodata">Matrimonial Bio Generator</a>
 - 🤮 <a href="https://github.com/tofa19/calculator">Smart Calculator</a>
 - 🌐 <a href="https://github.com/tofa19/harvard-homepage-clone">Harvard Style Webpage</a>
+- 🤖 <a href="https://github.com/tofa19/dmml">DMML (Data Mining & ML Lab Projects)</a>
+- ⚖️ <a href="https://github.com/tofa19/ethical-ai">Ethical AI in Recruitment Systems</a>
+- 🔖 <a href="https://github.com/tofa19/mini-compiler">MiniLang Compiler Design Project</a>
+- ♚ <a href="https://github.com/tofa19/capture-the-king">Capture the King – Strategy Board Game</a>
 
 > *Check out more on my <a href="https://github.com/tofa19?tab=repositories">GitHub Repositories »</a>*
 
