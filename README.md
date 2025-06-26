@@ -42,7 +42,7 @@
 
 ### 🧠 Featured Projects
 
-- 🔗 <a href="[https://github.com/tofa19/matrimonial-biodata](https://github.com/tofa19/Biodata-form.git)">Matrimonial Bio Generator</a>
+- 🔗 <a href="https://github.com/tofa19/Biodata-form.git">Matrimonial Bio Generator</a>
 - 🤮 <a href="https://github.com/tofa19/calculator">Smart Calculator</a>
 - 🌐 <a href="https://github.com/tofa19/harvard-homepage-clone">Harvard Style Webpage</a>
 - 🤖 <a href="https://github.com/tofa19/dmml">DMML (Data Mining & ML Lab Projects)</a>
