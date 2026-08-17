@@ -160,14 +160,11 @@ flowchart LR
 
 ## 📊 GitHub dashboard
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tofa19&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" height="170" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofa19&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" height="170" alt="Top languages" />
-</div>
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=tofa19&show_icons=true&hide_border=true&theme=tokyonight)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tofa19&theme=tokyonight&hide_border=true" height="170" alt="GitHub contribution streak" />
-</div>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tofa19&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
+
+![GitHub contribution streak](https://streak-stats.demolab.com?user=tofa19&theme=tokyonight&hide_border=true)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tofa19&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
