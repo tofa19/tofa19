@@ -178,7 +178,7 @@ flowchart LR
 
 <p align="center">
   <a href="https://www.linkedin.com/in/toufique-ahamed-71402a312"><img src="https://img.shields.io/badge/LinkedIn-Toufique%20Ahamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <a href="mailto:tofa.dev19@gmail.com"><img src="https://img.shields.io/badge/Email-tofa.dev19%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Toufique" /></a>
+  <a href="mailto:toufiqueahamed12@gmail.com"><img src="https://img.shields.io/badge/Email-tofa.dev19%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Toufique" /></a>
   <a href="https://github.com/tofa19"><img src="https://img.shields.io/badge/GitHub-@tofa19-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 </p>
 
