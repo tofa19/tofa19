@@ -58,7 +58,6 @@ Fun fact    → I build, break, debug, and rebuild. That is my favourite feedbac
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
       </p>
-      <a href="https://github.com/grsdevgroup-luminar/gls-learning">View the platform →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Learning in public</h3>
